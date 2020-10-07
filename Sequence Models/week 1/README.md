@@ -4,4 +4,4 @@
 
 [Character level language model - Dinosaurus Island](https://github.com/caiosainvallio/deeplearning_specialization/blob/master/Sequence%20Models/week%201/Dinosaurus_Island_Character_level_language_model_final_v3b.ipynb)
 
-[]()
+[Improvise a Jazz Solo with an LSTM Network](https://github.com/caiosainvallio/deeplearning_specialization/blob/master/Sequence%20Models/week%201/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
